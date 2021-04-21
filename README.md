@@ -39,5 +39,5 @@ i.e.
 
 ### WRRC
 
-[WRRC](assets/Lab02_WRRC.png)
+![WRRC](assets/Lab02_WRRC.png)
 
